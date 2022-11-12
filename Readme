@@ -1,3 +1,6 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/1sgetPM00wWqJpVUTl/giphy.gif" width="300"/>
+</div>
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Vieuxnorris....;Nice+to+meet+you!&center=true&size=30">
@@ -23,4 +26,13 @@
   <code><img title="MySQL" height="25" src="https://user-images.githubusercontent.com/26462639/200928601-76a7e37f-1225-47f9-8a8f-c7c7d946481f.png"></code>
 </p>
 <hr>
-<h2 align="center">📙 Skyrim x64 DLL Injection 📙</h2>
+<h2 align="center">📙 Practice C++ 📙</h2>
+Part of my plan to improve my C++
+
+<!-- ROADMAP -->
+<h2 align="center">👨‍💻 Roadmap 👨‍💻</h2>
+
+- [x] Aimbot
+- [x] Wallhack
+- [x] Entity check
+<hr>
